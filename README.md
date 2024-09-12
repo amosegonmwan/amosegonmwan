@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amos Egonmwan</h1>
 <h3 align="center">A dynamic Senior DevOps Engineer with over +5 years of experience specializing in DevSecOps and Site Reliability Engineering (SRE) practices.</h3>
 
+![k8sug2](https://github.com/user-attachments/assets/9f680056-8829-442c-9c4d-ce95d63e29d5)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amosegonmwan&label=Profile%20views&color=0e75b6&style=flat" alt="amosegonmwan" /> </p>
 
 - 🔭 I’m currently working as a **DevOps & Site Reliability Engineer (SRE)**
