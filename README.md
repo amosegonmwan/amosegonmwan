@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **amos.egonmwan@gmail.com**
 
-- ⚡ Fun fact **I love baking and biking**
+- ⚡ Fun fact **I love mathematics, and I enjoy baking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
