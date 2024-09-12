@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amos Egonmwan</h1>
-<h3 align="center">A dynamic Senior DevOps Engineer with over +5 years of experience specializing in DevSecOps and Site Reliability Engineering (SRE) practices.</h3>
+<h3 align="center">A dynamic Senior DevOps Engineer with over +5 years of experience implementing and specializing in implementing DevSecOps and Site Reliability Engineering (SRE) practices.</h3>
 
 <!-- Stretched banner image with fixed width and adjusted height -->
 <p align="center">
@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working as a **DevOps & Site Reliability Engineer (SRE)**
 
-- 🌱 I’m currently learning **Advanced Cloud-Native Security Practices & Chaos Engineering**
+- 🌱 I’m currently learning **Chaos Engineering & Advanced Cloud-Native Security Practices**
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
