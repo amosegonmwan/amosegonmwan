@@ -18,11 +18,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/amosegonmwan](https://github.com/amosegonmwan)
 
-- 💬 Ask me about **DevOps and Cloud Infrastructure, Automation, Site Reliability Engineering (SRE), Cloud Native Computing**
+- 💬 Ask me about **DevOps/Cloud Engineering, Platform Engineering, Site Reliability Engineering (SRE), Automation & Cloud Native Computing**
 
 - 📫 How to reach me **amos.egonmwan@gmail.com**
 
 - ⚡ Fun fact **I love mathematics, and I enjoy baking**
+  
+- 🎓 I hold a **PhD in Applied Mathematics & Numerical Simulation**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
