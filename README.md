@@ -20,12 +20,12 @@
 
 - 💬 Ask me about **DevOps/Cloud Engineering, Platform Engineering, Site Reliability Engineering (SRE), Automation & Cloud Native Computing**
 
-- 📫 How to reach me **amos.egonmwan@gmail.com**
-
-- ⚡ Fun fact **I love mathematics, and I enjoy baking**
+- ⚡ Fun fact **I enjoy baking and making pastries**
   
 - 🎓 I hold a **PhD in Applied Mathematics & Numerical Simulation**
 
+- 📫 How to reach me **amos.egonmwan@gmail.com**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/amosegonmwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amosegonmwan" height="30" width="40" /></a>
