@@ -2,7 +2,7 @@
 <h3 align="center">A dynamic Senior DevOps Engineer with over +5 years of experience specializing in DevSecOps and Site Reliability Engineering (SRE) practices.</h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9f680056-8829-442c-9c4d-ce95d63e29d5" alt="k8sug2" width="600" />
+  ![k8sug2](https://github.com/user-attachments/assets/54e1d6a5-5507-4081-a7c6-848c1c233338)
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amosegonmwan&label=Profile%20views&color=0e75b6&style=flat" alt="amosegonmwan" /> </p>
