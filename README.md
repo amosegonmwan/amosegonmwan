@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amosegonmwan&label=Profile%20views&color=0e75b6&style=flat" alt="amosegonmwan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amosegonmwan" alt="amosegonmwan" /></a> </p>
-
 - 🔭 I’m currently working as a **DevOps & Site Reliability Engineer (SRE)**
 
 - 🌱 I’m currently learning **Advanced Cloud-Native Security Practices & Chaos Engineering**
