@@ -20,10 +20,10 @@
 
 - 💬 Ask me about **DevOps/Cloud Engineering, Platform Engineering, Site Reliability Engineering (SRE), Automation & Cloud Native Computing**
 
-- ⚡ Fun fact **I enjoy baking and making pastries**
-  
 - 🎓 I hold a **PhD in Applied Mathematics & Numerical Simulation**
 
+- ⚡ Fun fact **I enjoy baking and making pastries**
+  
 - 📫 How to reach me **amos.egonmwan@gmail.com**
   
 <h3 align="left">Connect with me:</h3>
