@@ -21,6 +21,8 @@
 - 💬 Ask me about **DevOps, Cloud & Platform Engineering, SRE, Automation, and Cloud-Native Computing**
 
 - 🎓 I hold a **PhD in Applied & Computational Mathematics**
+  
+- 🏅 Digital badge: [https://www.credly.com/users/egonmwan](https://www.credly.com/users/egonmwan)
 
 - ⚡ Fun fact **I enjoy baking and making pastries**
   
