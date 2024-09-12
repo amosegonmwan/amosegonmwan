@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/amosegonmwan](https://github.com/amosegonmwan)
 
-- 💬 Ask me about **DevOps/Cloud Engineering, Platform Engineering, Site Reliability Engineering (SRE), Automation & Cloud Native Computing**
+- 💬 Ask me about **Ask me about DevOps, Cloud & Platform Engineering, SRE, Automation, and Cloud-Native Computing**
 
 - 🎓 I hold a **PhD in Applied & Computational Mathematics**
 
