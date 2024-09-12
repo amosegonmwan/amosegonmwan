@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **DevOps/Cloud Engineering, Platform Engineering, Site Reliability Engineering (SRE), Automation & Cloud Native Computing**
 
-- 🎓 I hold a **PhD in Applied Mathematics & Numerical Simulation**
+- 🎓 I hold a **PhD in Applied & Computational Mathematics**
 
 - ⚡ Fun fact **I enjoy baking and making pastries**
   
