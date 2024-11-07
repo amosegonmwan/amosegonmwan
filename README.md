@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working as a **DevOps & Site Reliability Engineer (SRE)**
 
-- 🌱 I’m currently learning **Chaos Engineering & Advanced Cloud-Native Security Practices**
+- 🌱 I’m currently learning **Advanced Python** and **Cloud-Native Security**  for optimized automation and Kubernetes security.
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
