@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **(DevOps | Cloud & Platform | SRE) Engineering, Automation, and Cloud-Native Computing**
 
-- 🎓 I hold a **[PhD in Applied & Computational Mathematics](https://badges.wes.org/Evidence?i=fa5e57b0-fbc8-42d2-b21e-34616276e537&type=ca)**
+- 🎓 I hold a [PhD in Applied & Computational Mathematics](https://badges.wes.org/Evidence?i=fa5e57b0-fbc8-42d2-b21e-34616276e537&type=ca)
   
 - 🏅 Digital badge: [https://www.credly.com/users/egonmwan](https://www.credly.com/users/egonmwan)
 
