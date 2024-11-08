@@ -24,7 +24,7 @@
   
 - 🏅 Digital badge: [https://www.credly.com/users/egonmwan](https://www.credly.com/users/egonmwan)
 
-- ⚡ Fun fact **I enjoy baking and making pastries**
+- ⚡ Fun fact: **I enjoy baking and making pastries**
   
 - 📫 How to reach me: amos.egonmwan@gmail.com
   
