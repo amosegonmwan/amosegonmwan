@@ -26,7 +26,7 @@
 
 - ⚡ Fun fact **I enjoy baking and making pastries**
   
-- 📫 How to reach me amos.egonmwan@gmail.com
+- 📫 How to reach me: amos.egonmwan@gmail.com
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
