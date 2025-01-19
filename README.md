@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amos Egonmwan</h1>
-<h3 align="center">A dynamic DevOps/SRE Engineer with 5+ years of experience, specializing in DevSecOps and SRE practices.</h3>
+<h3 align="center">A dynamic Cloud/DevOps Engineer with 5+ years of experience, specializing in DevSecOps and SRE practices.</h3>
 
 <!-- Stretched banner image with fixed width and adjusted height -->
 <p align="center">
@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/amosegonmwan](https://github.com/amosegonmwan)
 
-- 💬 Ask me about **(DevOps | Cloud & Platform | SRE) Engineering, Automation, and Cloud-Native Computing**
+- 💬 Ask me about **(Cloud | DevOps | SRE) Engineering, Automation, and Cloud-Native Computing**
 
 - 🎓 I hold a [PhD in Applied & Computational Mathematics](https://badges.wes.org/Evidence?i=fa5e57b0-fbc8-42d2-b21e-34616276e537&type=ca)
   
