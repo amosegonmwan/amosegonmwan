@@ -24,7 +24,7 @@
   
 - 🏅 Digital badge: [https://www.credly.com/users/egonmwan](https://www.credly.com/users/egonmwan)
 
-- ⚡ Fun fact: **I swimming, cycling, baking & making pastries**
+- ⚡ Fun fact: **I love swimming, cycling, and baking**
   
 - 📫 How to reach me: amos.egonmwan@gmail.com
   
