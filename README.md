@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amos Egonmwan</h1>
-<h3 align="center">A dynamic Cloud/DevOps Engineer with 5+ years of experience, specializing in SRE practices.</h3>
+<h3 align="center">A dynamic Cloud DevOps Engineer with 5+ years of experience, specializing in SRE practices.</h3>
 
 <!-- Stretched banner image with fixed width and adjusted height -->
 <p align="center">
@@ -10,7 +10,7 @@
 
 
 
-- 🔭 I’m currently working as a **Cloud/DevOps Engineer**
+- 🔭 I’m currently working as a **Cloud DevOps Engineer**
 
 - 🌱 I’m currently learning **Advanced Python** and **Cloud-Native Security**  for optimized automation and Kubernetes security.
 
