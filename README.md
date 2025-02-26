@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/amosegonmwan](https://github.com/amosegonmwan)
 
-- 💬 Ask me about **(Cloud | DevOps | SRE) Engineering, Automation, and Cloud-Native Computing**
+- 💬 Ask me about **(Cloud/DevOps | SRE) Engineering, Automation, and Cloud-Native Computing**
 
 - 🎓 I hold a [PhD in Applied & Computational Mathematics](https://badges.wes.org/Evidence?i=fa5e57b0-fbc8-42d2-b21e-34616276e537&type=ca)
   
