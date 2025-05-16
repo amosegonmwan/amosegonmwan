@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Advanced Python** and **Cloud-Native Security**  for optimized automation and Kubernetes security.
 
-- 👯 I’m excited to collaborate on **Open Source projects** relating to **Cloud/DevOps Engineering**
+- 👯 I’m excited to collaborate on **Open Source projects** relating to **Cloud & DevOps Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/amosegonmwan](https://github.com/amosegonmwan)
 
