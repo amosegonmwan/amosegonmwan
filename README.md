@@ -10,7 +10,7 @@
 
 
 
-- 🔭 I’m currently working as a **Cloud/DevOps Engineer**
+- 🔭 I’m currently working as a **Cloud & DevOps Engineer**
 
 - 🌱 I’m currently learning **Advanced Python** and **Cloud-Native Security**  for optimized automation and Kubernetes security.
 
