@@ -10,15 +10,17 @@
 
 
 
-- 🔭 I’m currently working as a **Cloud & DevOps Engineer**
+- 🔭 I’m focused on **Technical Project Management, AI, Digital Transformation, Data Platforms, Cloud Solutions, and business-value delivery.**
 
-- 🌱 I’m currently learning **Advanced Python** and **Cloud-Native Security**  for optimized automation and Kubernetes security.
+- 🌱 I’m currently learning **AI Governance & Risk** to strengthen responsible AI adoption, compliance, and risk-aware technology delivery.
+  
+- ✅ I have completed professional development in **Managing AI Projects** and **Digital Transformation**.
 
-- 👯 I’m excited to collaborate on **Open Source projects** relating to **Cloud & DevOps Engineering**
+- 👯 I’m open to collaborating on **AI, data, cloud, automation, digital transformation, and project delivery initiatives.** 
 
-- 👨‍💻 All of my projects are available at [https://github.com/amosegonmwan](https://github.com/amosegonmwan)
+- 👨‍💻 Some of my cloud-based projects are available at: [https://github.com/amosegonmwan](https://github.com/amosegonmwan)
 
-- 💬 Ask me about **(Cloud/DevOps | SRE) Engineering, Automation, and Cloud-Native Computing**
+- 💬 Ask me about **Technical Project Management, AI projects, Digital Transformation, Data Platforms, Cloud Solutions, automation, and business value.**
 
 - 🎓 I hold a [PhD in Applied & Computational Mathematics](https://badges.wes.org/Evidence?i=fa5e57b0-fbc8-42d2-b21e-34616276e537&type=ca)
   
