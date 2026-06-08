@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amos Egonmwan</h1>
-<h3 align="center">A Technical Project Manager & Digital Transformation professional focused on Cloud, AI, Data, automation, and business value.</h3>
+<h3 align="center">Technical Project Manager and Digital Transformation professional focused on Cloud, AI, Data, automation, and delivering business value through AI-driven solutions.</h3>
 
 <!-- Stretched banner image with fixed width and adjusted height -->
 <p align="center">
