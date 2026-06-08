@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **AI Governance & Risk** to strengthen responsible AI adoption, compliance, and risk-aware technology delivery.
   
-- ✅ I have completed professional development in **Managing AI Projects** and **Digital Transformation**.
+- ✅ I support the planning and delivery of **AI initiatives, digital transformation projects**, and **business-value-driven solutions**. 
 
 - 👯 I’m open to collaborating on **AI, data, cloud, automation, digital transformation, and project delivery initiatives.** 
 
