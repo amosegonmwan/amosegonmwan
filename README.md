@@ -3,7 +3,7 @@
 
 <!-- Stretched banner image with fixed width and adjusted height -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9f680056-8829-442c-9c4d-ce95d63e29d5" alt="k8sug2" width="600" height="150" />
+  <img width="1400" height="350" alt="banner" src="https://github.com/user-attachments/assets/f2605cf9-3efc-439b-a456-2cd416ccf935" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amosegonmwan&label=Profile%20views&color=0e75b6&style=flat" alt="amosegonmwan" /> </p>
